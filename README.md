@@ -1,13 +1,13 @@
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=lyqst&count_private=true&show_icons=true&theme=radical"
+  srcset="https://github-readme-stats.vercel.app/api?username=lyqst&count_private=true&show_icons=true&theme=radical&hide=contribs"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=lyqst&count_private=true&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=lyqst&count_private=true&show_icons=true&hide=contribs"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=lyqst&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=lyqst&count_private=true&show_icons=true&hide=contribs" />
 </picture>
 <br>
 <picture>
