@@ -26,6 +26,6 @@ jobs:
           # Options
           user: Lyqst
           template: classic
-          base: header, repositories, metadata
+          base: header, activity, repositories, metadata
           base_indepth: yes
           config_timezone: America/Santiago
