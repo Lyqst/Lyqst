@@ -12,12 +12,12 @@
 <br>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lyqst&layout=compact&theme=radical&card_width=445&langs_count=6"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lyqs&count_private=truet&layout=compact&theme=radical&card_width=445&langs_count=6"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lyqst&layout=compact&card_width=445&langs_count=6"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lyqst&count_private=true&layout=compact&card_width=445&langs_count=6"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyqst&layout=compact&card_width=445&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyqst&count_private=true&layout=compact&card_width=445&langs_count=6" />
 </picture>
