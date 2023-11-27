@@ -6,12 +6,14 @@
 
 ![Reviews](https://img.shields.io/badge/{{ CODE_REVIEWS }}%20pull%20requests%20review-ffe799?style=flat-square)
 
-{{ LANGUAGE_TEMPLATE_START:max=5 }}
+{{ LANGUAGE_TEMPLATE_START:max=8 }}
 ![{{ LANGUAGE_NAME }}](https://img.shields.io/badge/{{ LANGUAGE_PERCENT:uri }}-white?style=flat-square&label={{ LANGUAGE_NAME:uri }}&labelColor={{LANGUAGE_COLOR:uri}})
 {{ LANGUAGE_TEMPLATE_END }}
 
 ## Last.fm stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <!--END_LASTFM_ARTISTS-->
-<!--START_LASTFM_TRACKS:{"period": "3month", "rows": 5}-->
+<!--START_LASTFM_ALBUMS:{"period": "6month", "rows": 5}-->
+<!--END_LASTFM_ALBUMS-->
+<!--START_LASTFM_TRACKS:{"period": "1year", "rows": 5}-->
 <!--END_LASTFM_TRACKS-->
