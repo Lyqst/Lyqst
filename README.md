@@ -1,6 +1,6 @@
 ## Github Stats
 
-![Commits](https://img.shields.io/badge/412%20commits%20pushed-87c4f2?style=flat-square)
+![Commits](https://img.shields.io/badge/413%20commits%20pushed-87c4f2?style=flat-square)
 
 ![PRs](https://img.shields.io/badge/88%20pull%20requests%20submitted-fcabd8?style=flat-square)
 
@@ -20,5 +20,5 @@
 <!--END_LASTFM_ARTISTS-->
 <!--START_LASTFM_ALBUMS:{"period": "6month", "rows": 5}-->
 <!--END_LASTFM_ALBUMS-->
-<!--START_LASTFM_TRACKS:{"period": "1year", "rows": 5}-->
+<!--START_LASTFM_TRACKS:{"period": "12month", "rows": 5}-->
 <!--END_LASTFM_TRACKS-->
