@@ -15,5 +15,5 @@
 <!--END_LASTFM_ARTISTS-->
 <!--START_LASTFM_ALBUMS:{"period": "6month", "rows": 5}-->
 <!--END_LASTFM_ALBUMS-->
-<!--START_LASTFM_TRACKS:{"period": "1year", "rows": 5}-->
+<!--START_LASTFM_TRACKS:{"period": "12month", "rows": 5}-->
 <!--END_LASTFM_TRACKS-->
