@@ -11,7 +11,7 @@
 {{ LANGUAGE_TEMPLATE_END }}
 
 ## Last.fm stats
-<!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
+<!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
+<!--END_LASTFM_ARTISTS-->
+<!--START_LASTFM_TRACKS:{"period": "3month", "rows": 5}-->
 <!--END_LASTFM_TRACKS-->
-<!--START_LASTFM_USER_INFO-->
-<!--END_LASTFM_USER_INFO-->
