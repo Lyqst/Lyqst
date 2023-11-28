@@ -15,11 +15,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `113 ▶️` ∙ **[Dan Deacon](https://www.last.fm/music/Dan+Deacon)**<br/>
-> `102 ▶️` ∙ **[NOFX](https://www.last.fm/music/NOFX)**<br/>
-> `90 ▶️` ∙ **[Ayreon](https://www.last.fm/music/Ayreon)**<br/>
-> `43 ▶️` ∙ **[Lorna Shore](https://www.last.fm/music/Lorna+Shore)**<br/>
-> `41 ▶️` ∙ **[Avenged Sevenfold](https://www.last.fm/music/Avenged+Sevenfold)**<br/>
 <!--END_LASTFM_ARTISTS-->
