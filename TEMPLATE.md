@@ -13,11 +13,11 @@
 
 ## Github Stats
 
-![Commits](https://img.shields.io/badge/commits%20pushed-%2321262d?style=flat-square&label={{ COMMITS }}&labelColor=87c4f2)
+![Commits](https://img.shields.io/badge/commits%20pushed-%2321262d?label={{ COMMITS }}&labelColor=87c4f2)
 
-![PRs](https://img.shields.io/badge/pull%20requests%20submitted-%2321262d?style=flat-square&label={{ PULL_REQUESTS }}&labelColor=fcabd8)
+![PRs](https://img.shields.io/badge/pull%20requests%20submitted-%2321262d?label={{ PULL_REQUESTS }}&labelColor=fcabd8)
 
-![Reviews](https://img.shields.io/badge/pull%20requests%20reviewed-%2321262d?style=flat-square&label={{ CODE_REVIEWS }}&labelColor=ffe799)
+![Reviews](https://img.shields.io/badge/pull%20requests%20reviewed-%2321262d?label={{ CODE_REVIEWS }}&labelColor=ffe799)
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
