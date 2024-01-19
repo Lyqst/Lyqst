@@ -13,7 +13,7 @@
 
 ## Github Stats
 
-![Commits](https://img.shields.io/badge/commits%20pushed-%2321262d?style=for-the-badge&label=453&labelColor=87c4f2)
+![Commits](https://img.shields.io/badge/commits%20pushed-%2321262d?style=for-the-badge&label=454&labelColor=87c4f2)
 
 ![PRs](https://img.shields.io/badge/pull%20requests%20submitted-%2321262d?style=for-the-badge&label=96&labelColor=fcabd8)
 
@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `226 ▶️` ∙ **[Lorna Shore](https://www.last.fm/music/Lorna+Shore)**<br/>
-> `174 ▶️` ∙ **[Cardiacs](https://www.last.fm/music/Cardiacs)**<br/>
-> `101 ▶️` ∙ **[Shadow of Intent](https://www.last.fm/music/Shadow+of+Intent)**<br/>
-> `77 ▶️` ∙ **[NOFX](https://www.last.fm/music/NOFX)**<br/>
-> `75 ▶️` ∙ **[Fit for an Autopsy](https://www.last.fm/music/Fit+for+an+Autopsy)**<br/>
 <!--END_LASTFM_ARTISTS-->
