@@ -21,4 +21,11 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
+
+> `256 ▶️` ∙ **[Cattle Decapitation](https://www.last.fm/music/Cattle+Decapitation)**<br/>
+> `168 ▶️` ∙ **[The Acacia Strain](https://www.last.fm/music/The+Acacia+Strain)**<br/>
+> `121 ▶️` ∙ **[Rivers of Nihil](https://www.last.fm/music/Rivers+of+Nihil)**<br/>
+> `101 ▶️` ∙ **[Serenity in Murder](https://www.last.fm/music/Serenity+in+Murder)**<br/>
+> `93 ▶️` ∙ **[Soulmass](https://www.last.fm/music/Soulmass)**<br/>
 <!--END_LASTFM_ARTISTS-->
