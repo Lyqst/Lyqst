@@ -17,15 +17,8 @@
 
 ![PRs](https://img.shields.io/badge/pull%20requests%20submitted-%2321262d?style=for-the-badge&label=116&labelColor=fcabd8)
 
-![Reviews](https://img.shields.io/badge/pull%20requests%20reviewed-%2321262d?style=for-the-badge&label=92&labelColor=ffe799)
+![Reviews](https://img.shields.io/badge/pull%20requests%20reviewed-%2321262d?style=for-the-badge&label=94&labelColor=ffe799)
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `136 ▶️` ∙ **[Cattle Decapitation](https://www.last.fm/music/Cattle+Decapitation)**<br/>
-> `130 ▶️` ∙ **[The Acacia Strain](https://www.last.fm/music/The+Acacia+Strain)**<br/>
-> `86 ▶️` ∙ **[Rivers of Nihil](https://www.last.fm/music/Rivers+of+Nihil)**<br/>
-> `74 ▶️` ∙ **[Soulmass](https://www.last.fm/music/Soulmass)**<br/>
-> `73 ▶️` ∙ **[Shadow of Intent](https://www.last.fm/music/Shadow+of+Intent)**<br/>
 <!--END_LASTFM_ARTISTS-->
