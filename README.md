@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `83 ▶️` ∙ **[Cattle Decapitation](https://www.last.fm/music/Cattle+Decapitation)**<br/>
-> `71 ▶️` ∙ **[Ayreon](https://www.last.fm/music/Ayreon)**<br/>
-> `66 ▶️` ∙ **[Bachdenkel](https://www.last.fm/music/Bachdenkel)**<br/>
-> `59 ▶️` ∙ **[Zeal & Ardor](https://www.last.fm/music/Zeal+&+Ardor)**<br/>
-> `50 ▶️` ∙ **[BBC Scottish Symphony Orchestra, Jean-Yves Ossonce and Albéric Magnard](https://www.last.fm/music/BBC+Scottish+Symphony+Orchestra,+Jean-Yves+Ossonce+and+Alb%C3%A9ric+Magnard)**<br/>
 <!--END_LASTFM_ARTISTS-->
