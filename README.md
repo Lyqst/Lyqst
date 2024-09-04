@@ -13,19 +13,12 @@
 
 ## Github Stats
 
-![Commits](https://img.shields.io/badge/commits%20pushed-%2321262d?style=for-the-badge&label=567&labelColor=87c4f2)
+![Commits](https://img.shields.io/badge/commits%20pushed-%2321262d?style=for-the-badge&label=571&labelColor=87c4f2)
 
-![PRs](https://img.shields.io/badge/pull%20requests%20submitted-%2321262d?style=for-the-badge&label=134&labelColor=fcabd8)
+![PRs](https://img.shields.io/badge/pull%20requests%20submitted-%2321262d?style=for-the-badge&label=136&labelColor=fcabd8)
 
 ![Reviews](https://img.shields.io/badge/pull%20requests%20reviewed-%2321262d?style=for-the-badge&label=95&labelColor=ffe799)
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `115 ▶️` ∙ **[Ayreon](https://www.last.fm/music/Ayreon)**<br/>
-> `92 ▶️` ∙ **[Albéric Magnard](https://www.last.fm/music/Alb%C3%A9ric+Magnard)**<br/>
-> `83 ▶️` ∙ **[Anton Bruckner](https://www.last.fm/music/Anton+Bruckner)**<br/>
-> `79 ▶️` ∙ **[Bachdenkel](https://www.last.fm/music/Bachdenkel)**<br/>
-> `75 ▶️` ∙ **[Cattle Decapitation](https://www.last.fm/music/Cattle+Decapitation)**<br/>
 <!--END_LASTFM_ARTISTS-->
