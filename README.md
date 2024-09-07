@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `116 ▶️` ∙ **[Ayreon](https://www.last.fm/music/Ayreon)**<br/>
-> `95 ▶️` ∙ **[Anton Bruckner](https://www.last.fm/music/Anton+Bruckner)**<br/>
-> `92 ▶️` ∙ **[Albéric Magnard](https://www.last.fm/music/Alb%C3%A9ric+Magnard)**<br/>
-> `80 ▶️` ∙ **[Bachdenkel](https://www.last.fm/music/Bachdenkel)**<br/>
-> `65 ▶️` ∙ **[Cattle Decapitation](https://www.last.fm/music/Cattle+Decapitation)**<br/>
 <!--END_LASTFM_ARTISTS-->
