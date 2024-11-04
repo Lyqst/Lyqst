@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `202 ▶️` ∙ **[Anton Bruckner](https://www.last.fm/music/Anton+Bruckner)**<br/>
-> `131 ▶️` ∙ **[Assemble the Chariots](https://www.last.fm/music/Assemble+the+Chariots)**<br/>
-> `82 ▶️` ∙ **[They Might Be Giants](https://www.last.fm/music/They+Might+Be+Giants)**<br/>
-> `80 ▶️` ∙ **[Ne Obliviscaris](https://www.last.fm/music/Ne+Obliviscaris)**<br/>
-> `79 ▶️` ∙ **[The Beatles](https://www.last.fm/music/The+Beatles)**<br/>
 <!--END_LASTFM_ARTISTS-->
