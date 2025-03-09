@@ -21,4 +21,11 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
+
+> `58 ▶️` ∙ **[2814](https://www.last.fm/music/2814)**<br/>
+> `55 ▶️` ∙ **[Deafheaven](https://www.last.fm/music/Deafheaven)**<br/>
+> `51 ▶️` ∙ **[Dan Deacon](https://www.last.fm/music/Dan+Deacon)**<br/>
+> `44 ▶️` ∙ **[Light Bearer](https://www.last.fm/music/Light+Bearer)**<br/>
+> `43 ▶️` ∙ **[The Acacia Strain](https://www.last.fm/music/The+Acacia+Strain)**<br/>
 <!--END_LASTFM_ARTISTS-->
