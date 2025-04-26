@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `85 ▶️` ∙ **[Anton Bruckner](https://www.last.fm/music/Anton+Bruckner)**<br/>
-> `80 ▶️` ∙ **[NOFX](https://www.last.fm/music/NOFX)**<br/>
-> `37 ▶️` ∙ **[Dan Deacon](https://www.last.fm/music/Dan+Deacon)**<br/>
-> `35 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `30 ▶️` ∙ **[Sum 41](https://www.last.fm/music/Sum+41)**<br/>
 <!--END_LASTFM_ARTISTS-->
