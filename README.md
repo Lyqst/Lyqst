@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `99 ▶️` ∙ **[Anton Bruckner](https://www.last.fm/music/Anton+Bruckner)**<br/>
-> `83 ▶️` ∙ **[NOFX](https://www.last.fm/music/NOFX)**<br/>
-> `33 ▶️` ∙ **[Dan Deacon](https://www.last.fm/music/Dan+Deacon)**<br/>
-> `28 ▶️` ∙ **[Robbie Williams](https://www.last.fm/music/Robbie+Williams)**<br/>
-> `27 ▶️` ∙ **[The Interrupters](https://www.last.fm/music/The+Interrupters)**<br/>
 <!--END_LASTFM_ARTISTS-->
