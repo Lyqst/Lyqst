@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `111 ▶️` ∙ **[Anton Bruckner](https://www.last.fm/music/Anton+Bruckner)**<br/>
-> `78 ▶️` ∙ **[NOFX](https://www.last.fm/music/NOFX)**<br/>
-> `32 ▶️` ∙ **[Eyedea & Abilities & DJ Abilities](https://www.last.fm/music/Eyedea+&+Abilities+&+DJ+Abilities)**<br/>
-> `32 ▶️` ∙ **[The Interrupters](https://www.last.fm/music/The+Interrupters)**<br/>
-> `27 ▶️` ∙ **[Samuel Barber](https://www.last.fm/music/Samuel+Barber)**<br/>
 <!--END_LASTFM_ARTISTS-->
