@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `88 ▶️` ∙ **[久石譲](https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2)**<br/>
-> `77 ▶️` ∙ **[Cardiacs](https://www.last.fm/music/Cardiacs)**<br/>
-> `59 ▶️` ∙ **[Ween](https://www.last.fm/music/Ween)**<br/>
-> `39 ▶️` ∙ **[Anton Bruckner](https://www.last.fm/music/Anton+Bruckner)**<br/>
-> `27 ▶️` ∙ **[Cattle Decapitation](https://www.last.fm/music/Cattle+Decapitation)**<br/>
 <!--END_LASTFM_ARTISTS-->
