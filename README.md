@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `127 ▶️` ∙ **[Cardiacs](https://www.last.fm/music/Cardiacs)**<br/>
-> `58 ▶️` ∙ **[Slift](https://www.last.fm/music/Slift)**<br/>
-> `55 ▶️` ∙ **[Carach Angren](https://www.last.fm/music/Carach+Angren)**<br/>
-> `50 ▶️` ∙ **[Ayreon](https://www.last.fm/music/Ayreon)**<br/>
-> `44 ▶️` ∙ **[lyqst](https://www.last.fm/music/lyqst)**<br/>
 <!--END_LASTFM_ARTISTS-->
