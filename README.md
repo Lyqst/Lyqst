@@ -21,4 +21,11 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
+
+> `80 ▶️` ∙ **[Cardiacs](https://www.last.fm/music/Cardiacs)**<br/>
+> `80 ▶️` ∙ **[Slift](https://www.last.fm/music/Slift)**<br/>
+> `52 ▶️` ∙ **[Ayreon](https://www.last.fm/music/Ayreon)**<br/>
+> `44 ▶️` ∙ **[lyqst](https://www.last.fm/music/lyqst)**<br/>
+> `35 ▶️` ∙ **[Diablo Swing Orchestra](https://www.last.fm/music/Diablo+Swing+Orchestra)**<br/>
 <!--END_LASTFM_ARTISTS-->
