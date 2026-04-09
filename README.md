@@ -21,4 +21,11 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
+
+> `68 ▶️` ∙ **[Cardiacs](https://www.last.fm/music/Cardiacs)**<br/>
+> `64 ▶️` ∙ **[Slift](https://www.last.fm/music/Slift)**<br/>
+> `35 ▶️` ∙ **[Cattle Decapitation](https://www.last.fm/music/Cattle+Decapitation)**<br/>
+> `35 ▶️` ∙ **[Major Parkinson](https://www.last.fm/music/Major+Parkinson)**<br/>
+> `34 ▶️` ∙ **[Alcest](https://www.last.fm/music/Alcest)**<br/>
 <!--END_LASTFM_ARTISTS-->
