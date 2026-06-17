@@ -21,11 +21,4 @@
 
 ## Last.fm Stats
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
-
-> `137 ▶️` ∙ **[Zeal & Ardor](https://www.last.fm/music/Zeal+&+Ardor)**<br/>
-> `45 ▶️` ∙ **[Slift](https://www.last.fm/music/Slift)**<br/>
-> `41 ▶️` ∙ **[Avenged Sevenfold](https://www.last.fm/music/Avenged+Sevenfold)**<br/>
-> `41 ▶️` ∙ **[Cardiacs](https://www.last.fm/music/Cardiacs)**<br/>
-> `40 ▶️` ∙ **[System of a Down](https://www.last.fm/music/System+of+a+Down)**<br/>
 <!--END_LASTFM_ARTISTS-->
